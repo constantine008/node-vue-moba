@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1558448230299'); /* IE9 */
+  src: url('iconfont.eot?t=1558448230299#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQsAAsAAAAACJwAAAPgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqEPINwATYCJAMUCwwABCAFhG0HSBt8BxEVnLXJfmryVC2Gz0CCj3FrCKbxFD8ggQQKAAAAAIggWiurZ2aP4El9AFABOkAFwDYuDsjoRFgyKqwIjLgjPWr2QKBLDkIlqQL4UEVwyG0RBhSAnDIPQNpcamaHg3rFvQqV/YSBnTwTe8j/W3+ysgjqBKR/3Dv+I/H57Fsuc2zrwgDjzrvA9vQNHrexRLlh7OIythNomUkK2mVi5QQNhdYvENfDQ/2hEdMoJfmhIdRyppaI54g10oO0Czxz7x//YW2QkVSZNvTAReMg2PaT6ImXEBthvGydzP5MYGaRsRwoxN1cy3XZjyxHqCX9rtiGloYk/SR6pH/ifuL9/x9ZsCJZS//DIylCJmq03A7YhnyFnyZB4ucdQeHXA0Hw61EjQ6zq3cIQeAF8B6T5nZpqQnSanYLV7dAvtoneF1rl3eGW9vh4T5yEDYp1DyPC9p2Dgw1VwcaeEUTcv0wB7cChS1TQPe1+foSSsHWsea5wAZ8vmOVCqBt6zo3OYqxQBS5978Bp8NBpfJm3ReDIhR9jazIeO+Q6dHamy9bgrMfHu6Pj/fHttmsIDrb1vUK7Vk7sngTxY9cJDp5GjtDg6sIenCUktBbvLmAKqsL2T/8/ydDuoCBLxGEwnWnIsusrO9LVNFKgyX26MXdE/2JeZlXexOx8kpGNI6UmUlYsx/Ng9iBnOqKsd6D6/Xx9TPjfFJSK1fmL2RdTmEYA7h+WC1iZVxRgw9cfOSprhiprup3kNYGchmQebxEN5TSHGNeamj414S5SU7rqSod8/3duajhepuqeJEkbvX+8nfxKvi6xKqo8aBftkKV5jG5k7anzKz1pJQlHa0Z2InZGIlh3Rlp6R6BOYJeGFl/41Zx8gR1p6RkhSAMj8iLBOSA/jlswWr4gTAWkl+nkN/iOi18Ij3xptX41FgV8UuIhrmdEgfrRhgTDfemNCgkUlq9pqyKKlfLDrgKVTci5jbz3W/aqHWOu+pFN1g4RGjEuA0ndDMga5iOFtBwqbeuhpmErtCxjOrttXIIsShNLZQMIAwOQ9LyFbGAPKaRLqEz5BDWDIIQWyC7ul1x4ikq9MGpBB+YClaXeG3pRXv4Ki0OrOcp3yTvkUPkhi9Nk/AN75D5GhGORi3jwTB28g92wbQkGphqtxKXIsEwSn3ei2FI3Ul4wpAnkAOMCVCzS83ZtoVK3X0GFg5bGJRUlxh3Egqp5kImlNZAPSV+r4lxaB0eFnBAe9/IY6YB3aEKtHiFgyO9UQ5aIlS1Cg6UEVfN1JfH4su4a1zEaKdqx5pEiR4kqamY38RRmHfaHW6vZRSUyzZ61bUYj') format('woff2'),
+  url('iconfont.woff?t=1558448230299') format('woff'),
+  url('iconfont.ttf?t=1558448230299') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1558448230299#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-news:before {
+  content: "\e61d";
+}
+
+.icon-menu:before {
+  content: "\e504";
+}
+
+.icon-card-hero:before {
+  content: "\e61f";
+}
+
+.icon-Back:before {
+  content: "\e511";
+}
+
